@@ -1,7 +1,3 @@
 # gomaa1
-sba7 el fol
-
-this is note
-
+## sba7 elfol
 ## head
-
